@@ -1,0 +1,8 @@
+// wrangler.jsonc
+{
+    "name": "working",
+    "compatibility_date": "2025-10-22",
+    "assets": {
+      "directory": ".vercel/output/static" // or "./dist" or "./out" depending on your build
+    }
+  }
